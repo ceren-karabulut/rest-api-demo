@@ -1,0 +1,16 @@
+C:\Users\hotta\source\repos\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\hotta\source\repos\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\hotta\source\repos\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\hotta\source\repos\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.2\Tweetbook.deps.json
+C:\Users\hotta\source\repos\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.2\Tweetbook.runtimeconfig.json
+C:\Users\hotta\source\repos\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.2\Tweetbook.runtimeconfig.dev.json
+C:\Users\hotta\source\repos\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.2\Tweetbook.dll
+C:\Users\hotta\source\repos\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.2\Tweetbook.pdb
+C:\Users\hotta\source\repos\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.2\Tweetbook.csprojAssemblyReference.cache
+C:\Users\hotta\source\repos\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.2\Tweetbook.RazorAssemblyInfo.cache
+C:\Users\hotta\source\repos\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.2\Tweetbook.RazorAssemblyInfo.cs
+C:\Users\hotta\source\repos\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.2\Tweetbook.AssemblyInfoInputs.cache
+C:\Users\hotta\source\repos\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.2\Tweetbook.AssemblyInfo.cs
+C:\Users\hotta\source\repos\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.2\Tweetbook.RazorTargetAssemblyInfo.cache
+C:\Users\hotta\source\repos\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.2\Tweetbook.dll
+C:\Users\hotta\source\repos\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.2\Tweetbook.pdb
